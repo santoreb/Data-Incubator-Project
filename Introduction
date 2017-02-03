@@ -1,0 +1,4 @@
+Introduction
+
+    Lemon cars sold in auctions have caused many costs to dealerships, car manufacturers and customers every year. These cars are sold in auctions for very good prices making buyers think they have made great deals. However, they soon find out these cars actually have problems that prevent them from functioning properly and also prevent them from being sold. 
+    This project aims to use data mining algorithms to create a classification model that can help buyers predict if a car they are buying in an auction is a lemon or not. The process of creating a new model will go through understanding the dataset and the importance of each variable, preparing the dataset for the application of an algorithm, applying different algorithms and analyzing results.
