@@ -2,4 +2,4 @@ Introduction
 
    Credit card fraud detection has always been a great concern for card holders and companies. Many researches have focused their studies on how to detect frauds before it is too late. The purpose of this study is to analyze a large dataset and predict whether a transaction is fraudulent or not.
    The data used in this project comes from https://www.kaggle.com/dalpozz/creditcardfraud. Only a few columns in the data have explanations on their meaning, the rest is confidential. The data has information on all transations made in two days in September 2013 by european card holder.
-   The exploratory data analysis show that it is possible to create a classification model that can predict whether the transaction is fraudulent or not. Two main graphs support this statement.
+   The exploratory data analysis shows that it is possible to create a classification model that can predict whether the transaction is fraudulent or not. Two main graphs support this statement.
