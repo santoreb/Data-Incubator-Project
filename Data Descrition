@@ -1,6 +1,5 @@
 Introduction
 
-    Lemon cars sold in auctions have caused many costs to dealerships, car manufacturers and customers every year. These cars are sold in auctions for very good prices making buyers think they have made great deals. However, they soon find out these cars actually have problems that prevent them from functioning properly and also prevent them from being sold. 
-    This project aims to use data mining algorithms to create a classification model that can help buyers predict if a car they are buying in an auction is a lemon or not. The process of creating a new model will go through understanding the dataset and the importance of each variable, preparing the dataset for the application of an algorithm, applying different algorithms and analyzing results.
-    The data was downloaded from https://www.kaggle.com/c/DontGetKicked. It was gathered from the beginning of 2009 to the end of 2010. There are three files from the website: training dataset, testing dataset and an explanatory document. In the training dataset, there are 34 variables and 72,983 records. In the testing dataset, there are 33 variables and 48,707 records. 
-    
+   Credit card fraud detection has always been a great concern for card holders and companies. Many researches have focused their studies on how to detect frauds before it is too late. The purpose of this study is to analyze a large dataset and predict whether a transaction is fraudulent or not.
+   The data used in this project comes from https://www.kaggle.com/dalpozz/creditcardfraud. Only a few columns in the data have explanations on their meaning, the rest is confidential. The data has information on all transations made in two days in September 2013 by european card holder.
+   The exploratory data analysis show that it is possible to create a classification model that can predict whether the transaction is fraudulent or not. Two main graphs support this statement.
